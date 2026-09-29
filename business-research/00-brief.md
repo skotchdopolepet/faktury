@@ -19,9 +19,11 @@
 - **Realistic numbers** with all costs included: platform fees, payment fees, shipping from CZ, packaging, returns under the EU 14-day withdrawal right, ads, taxes and VAT where relevant, and the founder's time.
 
 ## Evidence rules
-- **Load the web tools first:** run ToolSearch with query `select:WebSearch,WebFetch`.
-- WebSearch results skew towards the US. Add EU and CZ terms (German or Czech queries such as "kaufen", "koupit", "bazar", "gebraucht") and WebFetch EU sites directly: ebay.de, kleinanzeigen.de, bazos.cz, sbazar.cz, aukro.cz, vinted, allegro.pl/cz, heureka.cz, kaufland.cz/de, etsy.com, reddit, and trade and forum sites.
-- Some sites block fetches. When one does, move on quickly and try another source.
+- **Load the web tools first:** run ToolSearch with query `select:WebSearch`.
+- **WebFetch is BLOCKED** by this environment's network policy for almost every domain (etsy, ebay, reddit, government sites and more), so don't waste calls on it.
+- **WebSearch works but has a LIMITED budget shared by the whole swarm.** Use at most about 12 searches, and make each query specific and data-seeking, e.g. `"<product>" etsy sold out waitlist 2025` or `"<product>" eBay sold price`. WebSearch returns result titles and URLs plus a summary; cite those URLs.
+- WebSearch results skew towards the US, so add EU and CZ terms such as "kaufen", "koupit", "bazar" or "gebraucht".
+- If searches start failing (the budget is exhausted), carry on with your own knowledge, but label each claim clearly: **[verified: URL]**, **[from knowledge, unverified]** or **[estimate: reasoning]**.
 - **Never invent numbers.** An estimate must be labelled "estimate" and show its reasoning. Cite URLs for every factual claim.
 - Today's date is **2026-09-29**. Prefer data from 2025–2026. Stale 2021 boom data (for example pandemic-era hobby bubbles) must be checked against current prices.
 

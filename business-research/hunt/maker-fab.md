@@ -1,0 +1,407 @@
+# HUNTER maker-fab: small-batch 3D-print / laser / CNC products
+
+Lens: one person with 3D printers (including a small Bambu-style farm) or a laser cutter making finished physical products for CZ/EU/worldwide buyers.
+
+## Method and evidence limits (read this first)
+- **Egress blocks.** The session's egress proxy blocked every direct page fetch: etsy.com, ebay.de, amazon.de, kleinanzeigen.de, bazos.cz, printables.com, reddit.com, wikipedia.org and trade-press sites. I could not open listings to read **sales counts, sold prices or review counts**.
+- **Search budget.** The swarm-wide WebSearch budget (200 calls) ran out after 17 searches by this hunter.
+- **Where the evidence comes from.** Everything below cites a search-result title, URL or snippet. Favourite counts and "Bestseller" badges come from search snippets, not from my own reading of the page. I did not verify sales volumes.
+- **Estimates.** Every figure marked *estimate* is my own arithmetic from the assumptions shown. Figures marked *from memory* are general knowledge, not checked in this session. Verify them before acting.
+- **Hard rule found (verified from multiple sources): Etsy Creativity Standards update, 10 June 2025.** Anything made with a 3D printer or laser and sold on Etsy must be based on the **seller's own design**. A purchased commercial STL licence no longer qualifies. Sources:
+  - https://www.tctmagazine.com/from-templates-to-originality-etsy-new-3d-printing-policy/
+  - https://www.valueaddedresource.net/etsy-creativity-standards-update-june-2025/
+  - https://www.cubee3d.com/post/etsy-s-new-3d-printing-policy-2025-the-complete-guide-to-the-original-design-rule
+  - https://printie.com/blog/2025-11-16-etsy-creativity-standards-3d-printing
+
+  So the founder either **does their own CAD** (Fusion/Onshape) or sells licensed designs only off-Etsy (own shop, eBay.de, Kaufland, Allegro). Every candidate below assumes original designs.
+- **Generic print-farm income claims.** Articles such as $500–2,000/month from 1–2 printers, or one operator reporting about $8,000 revenue after 8 months, are marketing content. I did not use them as evidence. Sources: https://sigmafilament.com/print-farm-income-guide-2026/ and https://www.insightagent.app/guides/best-selling-3d-printed-items-etsy
+- **The hobby installed base is huge.** Bambu Lab passed CNY 10 bn (about $1.5 bn) revenue in 2025 (https://3dprint.com/324181/bambu-lab-says-2025-was-a-breakout-year-10-million-monthly-users-and-real-business-growth/, https://finance.biggo.com/news/1d981f5c-9b3f-420a-babe-6bbebc86b44a). Products bought mainly by **makers** get printed at home for free. The winning niches sell to **non-makers**: kitchen owners, van owners, car owners.
+
+### Shared cost assumptions (used in every unit-economics line)
+- **Etsy fees (from memory, verify):**
+  - $0.20 listing fee per sale
+  - 6.5% transaction fee on item plus shipping
+  - payment processing of about 4% + €0.30
+  - Offsite Ads at 15% on attributed orders (I assume about 20% of orders, so about 3% on average)
+  - All-in: roughly **13–14% + €0.50** per order.
+- **Czech VAT trap (from memory, verify):** as a non-VAT-payer, the founder becomes an *identifikovaná osoba*. They must self-assess **21% CZ VAT on Etsy, Amazon and Meta fees** (services bought from other EU countries). That adds about 2.5–3% of revenue.
+- **Shipping CZ to DE, small parcel** via Packeta/Zásilkovna or Česká pošta: about **€4–6** to a pick-up point and €6–8 to the door (*estimate from memory*). Shipping within CZ is about €2.5–3.5.
+- **Returns under the EU 14-day withdrawal right:** 2–4% of orders (*estimate*).
+- **Printing cost:** PLA/PETG/ASA at about €15–25/kg. Electricity at about €0.03 per printer-hour (about 100 W average, CZ tariff about 6–7 CZK/kWh). Printer wear about €0.10–0.20 per hour (*estimates*).
+- **Hardware:**
+  - Bambu Lab A1 about €350–450, P1S about €550–750 (*approx. list prices from memory*). A 3-printer farm is about €1,500–2,200.
+  - Diode laser 20–40 W about €600–1,500; CO2 desktop laser €2,500+ (*from memory*).
+- **Compliance that applies to every candidate:**
+  - GPSR (EU 2023/988, in force since 13 Dec 2024): product identification, safety information and an internal risk assessment. The founder is the EU "responsible person", which is easy for a CZ resident.
+  - **LUCID/VerpackG** packaging registration before selling to German consumers.
+  - Packaging EPR in CZ and FR as volumes grow.
+  - **OSS:** once cross-border EU B2C sales pass €10,000 a year, destination VAT applies (DE 19%).
+  - Czech trade licence: *volná živnost* "Výroba, obchod a služby neuvedené v přílohách 1 až 3 živnostenského zákona". Allowed as *vedlejší činnost* alongside a job.
+
+---
+
+## Candidates
+
+### 1. Thermomix TM7 accessory line (original designs, "compatible with Thermomix® TM7")
+- **What you sell / type:** Physical. An own-designed range of 4–6 SKUs: a TM7 accessory station (spatula, measuring cup, butterfly whisk), a Varoma parking/drip stand, a lid and simmering-basket holder, and a weighing-plate style cover. Parts that touch food are left out (see legal notes). The sellable unit is PLA/PETG, multi-colour, bundle-friendly.
+- **Buyer & channel:**
+  - Buyers: German, Austrian, Czech, Slovak and Polish TM7 owners, who are overwhelmingly **non-makers** (home cooks).
+  - Channels: Etsy DE/AT (original designs), Amazon.de (Handmade or a normal listing), eBay.de, and an own Shopify/Shoptet shop.
+  - Czech/Slovak Thermomix Facebook groups and recipe bloggers for CZ/SK (Czech-language listings are rare).
+- **Price (€):** €19–35 per item; bundle €45–59.
+- **Unit economics (*estimate*):**
+  - Example: €27 item + €5 shipping charged = €32 revenue.
+  - Costs:
+    - filament 120–200 g, about €2.5–4
+    - electricity and wear, about €0.8
+    - packaging, about €0.8
+    - Etsy fees at about 14% + €0.50, about €5
+    - VAT on fees (identified person), about €1
+    - shipping to DE, about €5
+    - returns allowance, about €0.6
+  - **Net ≈ €15–17 per order** before income tax. Labour is about 10–15 min per order (support removal, QC, packing).
+- **Demand evidence:**
+  - **Installed base:** Vorwerk sold **>1.4 million Thermomix units in 2025**, of which **>1 million were the new TM7**, on €3.6 bn revenue (+14%). Sources:
+    - https://www.it-boltwise.de/vorwerk-verkauft-14-millionen-thermomix-im-rekordjahr-tm7-treibt-umsatzplus.html
+    - https://www.it-boltwise.de/vorwerk-steigert-thermomix-absatz-2025-auf-14-mio-und-erreicht-36-mrd-euro-umsatz.html
+    - https://ms-aktuell.de/welt/vorwerk-rekordumsatz-thermomix-tm7-2025/
+  - A trade headline reports "860.000 Bestellungen" (https://www.direct-selling-magazine.de/860-000-bestellungen-vorwerk-erzielt-2025-rekordumsatz-mit-thermomix-tm7/).
+  - TM7 was announced 14 Feb 2025 and delivered from mid-April 2025 (same sources).
+  - **Paying accessory buyers exist.** Etsy search snippets show German-shipping 3D-printed TM7 accessories:
+    - myKitchenUpgrade "2-in-1 Weighing Plate compatible with TM7": **166 favourites** (https://www.etsy.com/listing/4337208417/2-in-1-weighing-plate-compatible-with)
+    - Mat3DDesign dough releaser: 33 favourites (https://www.etsy.com/at/listing/1812682218/thermomix-teigloser-tm7-tm6-tm5-3d)
+    - LaserFactoryDE TM7 accessory holder: 21 favourites (https://www.etsy.com/listing/4467151499/accessory-holder-for-thermomix-tm7)
+    - Further TM7 holders: https://www.etsy.com/listing/4519818943/thermomix-tm7-accessory-holder-storage and https://www.etsy.com/listing/4381881953/accessory-holder-for-thermomix-tm7-3d
+    - Etsy category page: https://www.etsy.com/market/thermomix_3d_druck
+  - eBay.de also has TM6/TM7 accessory listings (https://www.ebay.de/itm/286659586471, https://www.ebay.de/itm/197544338097).
+  - **I found no sales counts.** Favourites are a demand proxy, not proof of sales.
+- **Supply gap / asymmetry evidence:**
+  - The TM7 accessory ecosystem is under 18 months old against 1M+ new units.
+  - Listing IDs of 43xxxxxxxx–45xxxxxxxx indicate sellers are entering **now** (2025–26 listings), so the window is open but closing.
+  - The DIY competition is real: Cults3D alone lists 88 free Thermomix models (https://cults3d.com/en/tags/thermomix). This matters less than usual because Thermomix buyers are rarely printer owners.
+  - **No evidence found** of sold-out stock, waitlists or long lead times. The gap is inferred from new-device timing, not measured.
+- **Edge for a CZ-based solo founder:**
+  - Modest.
+  - Czech/Slovak/Polish-language listings and community marketing, where the German sellers seen above don't operate.
+  - CZ production and shipping cost at or below the DE sellers'.
+  - CZ to DE delivery in 2–4 days.
+  - No structural moat: design speed and a good multi-SKU range are the edge.
+- **Startup cost (€) & hours/week:**
+  - About **€1,500–2,500** (*estimate*): 2–3 printers €900–1,800, filament/packaging/samples €300, LUCID/GPSR paperwork about €50, photos DIY.
+  - The founder needs **access to a TM7** for fit testing: borrow one, or buy used (new DE list price about €1,549 *from memory*).
+  - 10–12 h/week for the first 3 months (CAD, prototypes, listings), then 5–8 h/week.
+- **Realistic monthly profit after 12 months (*estimate*, net about €16/order):**
+  - Pessimistic **€50** (≈3–5 orders/month; drowned by DE copycats)
+  - Realistic **€350–500** (≈25–30 orders/month across Etsy, eBay and a CZ shop)
+  - Optimistic **€1,500** (≈90–100 orders/month, one SKU becomes an Etsy/Amazon bestseller)
+- **CZ/EU legal/regulatory notes:**
+  - *Thermomix* is a Vorwerk trademark. Use it only as a plain-text reference ("compatible with Thermomix® TM7"), never the logo or the green design. EU Trademark Regulation Art. 14(1)(c) allows reference to the intended purpose of accessories and spare parts when it is honest (*from memory*).
+  - **Food-contact rule:** anything touching food (dough releasers, scrapers, lids) falls under Reg. (EC) 1935/2004 and plastic FCM Reg. (EU) 10/2011, which require a declaration of compliance. FDM layer lines are a hygiene risk, so **exclude food-contact SKUs**.
+  - GPSR and LUCID as above.
+- **Key risks:**
+  - Vorwerk releases its own organisers.
+  - A flood of DE copycats: the barrier is only CAD.
+  - Etsy search dominance by early movers.
+  - A possible trademark complaint if listings over-use the brand.
+- **Confidence (1–5): 3.**
+  - For: a verified, very large and fresh installed base of non-maker buyers; visible multi-seller Etsy activity from DE.
+  - Against: no sales counts, no measured gap, and the edge over German sellers is thin.
+
+### 2. VW California T6.1 / T7 and Grand California interior add-ons (also Ford Nugget later)
+- **What you sell / type:** Physical. Model-specific ASA/PETG parts: grab-handle double hooks, cup holders that clip to the camper table, rail/cabinet organisers, fridge-lid stops, curtain and blind clips, Grand California table holders, and bundled "starter kits".
+- **Buyer & channel:**
+  - Buyers: German, Austrian, Dutch and Czech California owners and rental fleets.
+  - Channels: own Shopify shop plus Etsy DE (original designs) plus eBay.de.
+  - Community marketing on Caliboard.de and California owner Facebook groups.
+  - B2B kits for CZ/DE camper-rental companies (still a product sale, not a service).
+- **Price (€):** €12–49 per part; kits €59–99.
+- **Unit economics (*estimate*):**
+  - Average order €38 incl. shipping. Parts cost €2–5 (ASA for heat and UV); packaging €0.8.
+  - Fees about 14% + €0.50 ≈ €5.8; VAT on fees about €1.2; shipping about €5.5; returns about €0.8.
+  - **Net ≈ €21–24 per order.** Labour 10–15 min.
+- **Demand evidence:** several German businesses exist purely or largely on 3D-printed camper parts, which shows money is changing hands:
+  - VANhackers "Doppelhaken Fahrerraum VW California 3D Druck" (https://www.vanhackers.de/products/doppelhaken-fahrerraum-individuell-und-3d-gedruckt)
+  - CamperStolz "constructs and prints custom-fit parts" for various motorhome models (https://camperstolz.de/)
+  - SPM3X "VW California Zubehör" (https://www.spm3x.com/page-en/vw-california-accessories-42150)
+  - Etsy "Holder for Smaller Table – VW Grand California – 3D printed" (https://www.etsy.com/listing/1326903088/halter-fur-kleineren-tisch-vw-grand)
+  - Owner community interest: Caliboard thread "Calizubehör in 3d-Druck" (https://www.caliboard.de/topic/20148-calizubeh%C3%B6r-in-3d-druck/), blog "Zubehör aus dem 3D-Drucker" (https://stadt-land-bulli.de/zubehoer-aus-dem-3d-drucker/), and an actively updated Printables design "VW T5, T6 California Cupboard … Version 2025" (https://www.printables.com/model/743758-vw-t5-t6-california-cupboard-deckenschrank-deckenr)
+  - **No sales volumes retrieved** (Etsy and eBay fetches blocked).
+- **Supply gap / asymmetry evidence:**
+  - Inferred, not measured.
+  - Parts are highly model-specific (T6.1 vs T7 vs Grand California vs Nugget), so generic Chinese Amazon sellers don't cover them well.
+  - The **T7-based "new California" (market launch 2024, *from memory*)** has had less time to gather aftermarket parts than the T6.
+  - Van owners pay well: the vehicle costs €70k+ (*from memory*).
+  - No waitlist or sold-out evidence found.
+- **Edge for a CZ-based solo founder:**
+  - Proximity to DE, Europe's largest camper market (*from memory, not verified here*).
+  - Lower production cost than DE shops.
+  - Czech rental fleets (many T6.1 Californias, *from memory*) as a local prototype-measurement source and a B2B customer.
+  - Czech/German bilingual listings if the founder speaks German.
+- **Startup cost (€) & hours/week:**
+  - About **€1,500–3,000** (*estimate*): 2–3 printers, ASA/PETG stock, calipers, and a weekend camper rental for fit-testing (about €300–500, *estimate*) unless a friend owns one.
+  - 10–15 h/week during a 3-month design phase, then 6–8 h/week.
+- **Realistic monthly profit after 12 months (*estimate*, net about €22/order):**
+  - Pessimistic **€100** (≈5 orders)
+  - Realistic **€400–650** (≈20–30 orders plus an occasional rental-fleet kit)
+  - Optimistic **€1,500** (≈60–70 orders; a hero product such as a table cup holder takes off on Caliboard)
+- **CZ/EU legal/regulatory notes:**
+  - "VW" and "California" are VW trademarks. Use them descriptively only ("fits VW California T6.1"), with no logos.
+  - Interior accessories are not type-approved parts. **Avoid anything safety-relevant** (seat, belt or airbag areas, anything that could become a projectile in a crash). The GPSR risk assessment should cover this.
+  - LUCID and OSS as above.
+- **Key risks:**
+  - Small per-model markets.
+  - Incumbents (VANhackers, CamperStolz) already rank.
+  - The founder has no van: a prototyping access problem.
+  - Seasonality (spring peak, winter lull).
+- **Confidence (1–5): 3.**
+  - For: several standalone businesses and active owner communities prove paying demand.
+  - Against: no volume data; the gap is inferred; there is a vehicle-access hurdle.
+
+### 3. Replacement "broken OEM plastic" parts for enthusiast youngtimers (lead SKU: Porsche 996/986 cup holder and dash-cubby insert, LHD)
+- **What you sell / type:** Physical. ASA/ASA-CF drop-in replacements for chronically failing or discontinued interior plastics on enthusiast cars.
+  - Start: Porsche 911 (996) and Boxster (986).
+  - Extend to the same "known broken part" pattern on BMW E46/E39 and Mazda MX-5 NA/NB (*extension is a hypothesis*).
+- **Buyer & channel:**
+  - Buyers: EU/UK/US owners of 20-to-30-year-old enthusiast cars. They are not makers, and they pay for fit and finish.
+  - Channels: Etsy (original designs), eBay.de/.com, own shop, and marque forums (Rennlist, PFF, 911uk, Pelikan-type DE forums).
+- **Price (€):** €35–90.
+- **Unit economics (*estimate*):**
+  - €55 item + €7 shipping = €62.
+  - Costs: ASA ≈ €3, post-processing and packaging ≈ €2, fees ≈ €9.2, VAT on fees ≈ €1.9, shipping ≈ €7 (EU) or €12–15 (US; *estimate*), returns ≈ €1.5.
+  - **Net ≈ €35–38 per EU order**. Labour 20–30 min (finishing to "OEM look").
+- **Demand evidence:** multiple independent sellers exist for one single part family:
+  - Etsy "Porsche 996/986 Dash Insert – CD Tray Replacement with Cup Holder or Phone Option" (https://www.etsy.com/listing/1662658455/porsche-996-986-dash-insert-cd-tray)
+  - "Cup Holder for Porsche 911 and Boxster (996/986) 3D Printed" (https://www.etsy.com/listing/1532801569/cup-holder-for-porsche-911-and-boxster)
+  - Etsy France 996/986 cupholder (https://www.etsy.com/listing/1719611472/porsche-996986-boxster-cup-holder)
+  - "Porsche Cup Holder Insert – 911 996 / Boxster 986" (https://www.etsy.com/listing/1661448009/porsche-cup-holder-insert-911-996)
+  - Own-shop seller "Porsche Cup Holder – Left Hand Drive 3D Printed" (https://sierramadrecollection.com/products/porsche-cup-holder-left-hand-drive-3d-printed-996-99-04-986-97-04-renn-06)
+  - Review snippets: "even better than expected… very clean 3D print", "solves the problem with the cup holder".
+  - **No sales counts retrieved.**
+- **Supply gap / asymmetry evidence:**
+  - One listing markets its part at "**half the OEM price**" (same Etsy search).
+  - The asymmetry is the brittle, expensive OEM plastic versus a €3-material replacement.
+  - Most sellers found are US-based. EU buyers pay transatlantic shipping and import VAT, which is an EU-based seller's opening (*inference*).
+- **Edge for a CZ-based solo founder:**
+  - EU-internal shipping with no customs for EU buyers.
+  - Low CZ cost.
+  - Can source broken originals cheaply from CZ/PL/DE scrapyards (auto-vrakoviště) to reverse-engineer. That last point is *inference, not verified*.
+- **Startup cost (€) & hours/week:**
+  - About **€1,200–2,500** (*estimate*): 1–2 enclosed printers for ASA, a used original part for each SKU at €20–80, a calipers or entry 3D-scanner option, and finishing supplies.
+  - 8–12 h/week (CAD-heavy up front).
+- **Realistic monthly profit after 12 months (*estimate*, net about €35/order):**
+  - Pessimistic **€70** (2 orders)
+  - Realistic **€350–500** (10–15 orders across 4–6 SKUs)
+  - Optimistic **€1,200** (≈35 orders; one SKU becomes the forum-recommended fix)
+- **CZ/EU legal/regulatory notes:**
+  - Porsche is famously protective of its marks. Use model codes and "fits 996/986" wording only, with no crest or script.
+  - Interior non-safety parts only.
+  - GPSR, LUCID and OSS as above.
+- **Key risks:**
+  - Small absolute volume per SKU.
+  - CAD fit iterations without owning the car.
+  - Existing US sellers already hold reviews.
+  - The finish quality needed is high.
+- **Confidence (1–5): 2.**
+  - For: repeated, multi-seller paying demand for the lead part.
+  - Against: no volume data, and the EU-seller gap is inferred.
+
+### 4. Starlink Mini mounts for European vans, 4x4s and boats
+- **What you sell / type:** Physical. ASA/PETG mounts:
+  - a universal adapter (RAM 1" ball / 20 mm ball)
+  - vehicle-specific dashboard, roof-rail or rear-ladder mounts for **EU vans**: Fiat Ducato/Citroën Jumper, Mercedes Sprinter, Ford Transit Custom, VW T6.1/T7
+  - pulpit or rail clamps for boats
+- **Buyer & channel:**
+  - Buyers: camper, overlander and boat owners in DE/NL/Scandinavia/CZ.
+  - Channels: Etsy (original designs), own shop, eBay.de. Bundle cross-sell with candidate 2.
+- **Price (€):** €25–59.
+- **Unit economics (*estimate*):**
+  - €39 + €6 shipping = €45.
+  - Costs: ASA/hardware (steel inserts, bolts) ≈ €4.5, packaging ≈ €0.8, fees ≈ €6.8, VAT on fees ≈ €1.4, shipping ≈ €6, returns ≈ €1.
+  - **Net ≈ €24 per order.**
+- **Demand evidence:**
+  - Etsy search snippets show **"Bestseller"** labelling on "Starlink Mini Mount V3 Universal Adapter (Aluminum Ball 20mm & 1" RAM Mount Compatible)" and on a "Starlink Mini Dashboard Mount for 2021–2026 Ford F-150 Raptor".
+  - "Starlink Mini Mount (inside case)" by 3DPrintShaK: **365 favourites** (https://www.etsy.com/listing/1830188560/starlink-mini-mount-inside-case)
+  - Category pages: https://www.etsy.com/market/starlink_mini_mount, https://www.etsy.com/market/3d_printed_starlink, https://www.etsy.com/listing/1757142989/starlink-mini-tripod-mount
+  - Review snippets report fit praise, plus one complaint about slick plastic on RAM arms, which is a product-improvement hint.
+- **Supply gap / asymmetry evidence:**
+  - The visible bestsellers are **US-vehicle-specific** (F-150).
+  - I found no EU-van-specific mounts in the snippets. This is a *hypothesis-level gap*, not measured.
+- **Edge for a CZ-based solo founder:** synergy with the camper line (same buyers and channels); EU-internal shipping.
+- **Startup cost (€) & hours/week:** about **€900–1,800** (*estimate*): 1–2 printers, a Starlink Mini for fit-testing (about €200–300 hardware, *from memory*) and hardware stock. 6–10 h/week.
+- **Realistic monthly profit after 12 months (*estimate*):**
+  - Pessimistic **€50**
+  - Realistic **€250–400** (10–15 orders)
+  - Optimistic **€1,000** (≈40 orders)
+- **CZ/EU legal/regulatory notes:**
+  - "Starlink" is a SpaceX trademark; use it descriptively only.
+  - Anything mounted **outside a vehicle** or on a dashboard must not affect road safety, airbags or the driver's view. Keep to parked/camp use and say so in the GPSR safety info.
+- **Key risks:**
+  - SpaceX changes the Mini's form factor or sells official mounts.
+  - Cheap Amazon injection-moulded mounts.
+  - Weather and UV failure of printed parts, which creates liability.
+- **Confidence (1–5): 2.** Real paying demand is visible, but the EU-specific gap is unproven.
+
+### 5. Plug-and-play sim-racing button box (pre-assembled, USB-C, 20–32 functions)
+- **What you sell / type:** Physical plus electronics. A 3D-printed or laser-cut enclosure with an Arduino Pro Micro-class board, push buttons, toggles, rotary encoders and a printed or engraved label overlay. Mounts for Moza, Fanatec and Logitech rigs.
+- **Buyer & channel:**
+  - Buyers: EU sim-racers on PC and PS5.
+  - Channels: Etsy, own shop, eBay.de, and sim-racing Discord and Facebook groups.
+- **Price (€):** €89–219.
+- **Unit economics (*estimate*):**
+  - €139 + €8 shipping = €147.
+  - Costs:
+    - electronics ≈ €18–30 (board clone, 20+ switches, 2–4 encoders, wiring, USB-C)
+    - enclosure print ≈ €5
+    - labels ≈ €2
+    - box and packaging ≈ €3
+    - fees ≈ €20.6
+    - VAT on fees ≈ €4.3
+    - shipping ≈ €8
+    - returns ≈ €4
+    - compliance amortised ≈ €3 (see below)
+  - **Net ≈ €70–80 per unit**, with about 1–1.5 h soldering and assembly per unit (within the brief's limit).
+- **Demand evidence:**
+  - Multiple Etsy category pages with many listings:
+    - https://www.etsy.com/market/sim_racing_button_box and page 2
+    - https://www.etsy.com/market/sim_racing_button_box_fanatec
+    - https://www.etsy.com/uk/market/moza_button_box
+  - Named products in snippets: "30-Function Sim Racing Button Box with 3D Printed USB Control Panel", "37-Function JUST Button Box", and "24-Function … compatible with Moza, Thrustmaster, Logitech".
+  - Review snippets: "the best button box I ever had".
+  - **No sales counts retrieved.**
+- **Supply gap / asymmetry evidence:** **None found.** It looks like a competitive, well-supplied Etsy category. Only a product edge (better haptics, PS5 support, rig-specific mounting) would win.
+- **Edge for a CZ-based solo founder:** the only edges are low CZ labour cost for the assembly hour and EU shipping. They are not structural.
+- **Startup cost (€) & hours/week:** about **€800–1,500** (*estimate*): printer, soldering station, parts for 10 units, and compliance set-up (below). 8–12 h/week (assembly-bound: about 6–8 units/week max).
+- **Realistic monthly profit after 12 months (*estimate*):**
+  - Pessimistic **€0** (compliance costs eat it)
+  - Realistic **€300–450** (≈5–6 units)
+  - Optimistic **€900** (≈12 units; capped by hours)
+- **CZ/EU legal/regulatory notes:** this is **electrical/electronic equipment**:
+  - CE marking under EMC 2014/30/EU and RoHS 2011/65/EU, with self-declaration and a technical file.
+  - **WEEE registration in every country you sell to consumers**. Germany (stiftung ear) requires an authorised representative for a foreign seller, a recurring fee. CZ requires joining a collective scheme (*from memory; costs not verified*).
+  - Marketplaces increasingly check WEEE numbers.
+  - This is the largest admin burden of all candidates.
+- **Key risks:**
+  - Compliance cost and hassle.
+  - Established Etsy sellers.
+  - Chinese brands (Moza and others) bundling button hubs.
+  - Hours cap volume.
+- **Confidence (1–5): 2.** Demand is visible, but there is no gap evidence and a heavy regulatory load.
+
+### 6. Škoda Enyaq / Elroq (and Octavia 4) interior organisers, Czech-home-market first
+- **What you sell / type:** Physical. Centre-console organiser trays, phone and wallet holders, cup-holder inserts, frunk-free charging-cable organisers, and boot hooks. Designed on real cars in CZ.
+- **Buyer & channel:**
+  - Buyers: Czech and Slovak Škoda EV and ICE owners (non-makers).
+  - Channels: own Shoptet shop, Heureka/Zboží listings, Czech owner Facebook groups (Enyaq/Elroq clubs), Allegro.cz.
+  - Later: Etsy and eBay.de for DE/AT owners.
+- **Price (€):** 390–990 CZK (€16–40).
+- **Unit economics (*estimate*):**
+  - 590 CZK (€23.5) + 79 CZK Zásilkovna = about €26.7.
+  - Costs: material ≈ €2, packaging ≈ €0.7, shop/payment fees about 3% ≈ €0.8, ads allowance ≈ €3, shipping ≈ €3.2, returns ≈ €0.5.
+  - **Net ≈ €16 per order.**
+- **Demand evidence:**
+  - Owners want these parts. Free designs are published and shared:
+    - MakerWorld "Skoda Enyaq Center Console Organizer" (https://makerworld.com/en/models/1491996-skoda-enyaq-center-console-organizer)
+    - MakerWorld Enyaq collection (https://makerworld.com/en/collections/15865899-skoda-enyaq)
+    - Printables "Enyaq IV Sportline Smart Holder" (https://www.printables.com/model/878567-skoda-enyaq-iv-sportline-smart-holder/related)
+    - Cults3D: 14 Enyaq models (https://cults3d.com/en/tags/enyaq)
+  - Škoda itself engages the maker scene with official models on Printables (https://3druck.com/en/diy/skoda-unveils-official-3d-print-models-on-printables-competition-for-creative-makers-36129860/).
+  - Conventional paid accessory shops sell "practical accessories" for Enyaq:
+    - https://cbdily.cz/kategorie/prislusenstvi-butik/vnitrni-vybava/prakticke-doplnky?model=23170
+    - https://www.autodoplnky-obchod.cz/doplnky-skoda-enyaq/
+    - https://skoda.autodoplnky.cz/skoda-enyaq/
+  - **I found no evidence of paid 3D-printed Škoda accessory sales.** This is the weakest demand proof of the list.
+- **Supply gap / asymmetry evidence:** no dedicated 3D-printed Škoda-accessory seller surfaced in Czech or German searches. That could be a gap, or a sign of no demand. Unproven.
+- **Edge for a CZ-based solo founder:** the **strongest local edge** in this lens:
+  - Škoda is the home brand; cars are easy to access at dealers, among friends and in car parks for fit-testing.
+  - Czech-language community marketing.
+  - Cheap domestic shipping.
+  - DE/AT Škoda owners reachable next.
+- **Startup cost (€) & hours/week:** about **€800–1,500** (*estimate*): 1–2 printers, materials, a Shoptet plan. 8–10 h/week.
+- **Realistic monthly profit after 12 months (*estimate*):**
+  - Pessimistic **€0–30**
+  - Realistic **€150–300** (10–20 orders)
+  - Optimistic **€800** (≈50 orders; a club endorsement)
+- **CZ/EU legal/regulatory notes:**
+  - Škoda trademarks: descriptive use only ("pro Škoda Enyaq"), no logo.
+  - Czech consumer law: 14-day withdrawal, 24-month warranty.
+  - GPSR.
+  - Non-safety interior parts only.
+- **Key risks:**
+  - Demand may be too thin because owners with printers download the free STLs.
+  - Škoda's own accessory "Simply Clever" range may cover the same needs.
+- **Confidence (1–5): 2.** It is included for its genuine local edge. **Validate with a 2-week pre-sale post in a Czech Enyaq/Elroq owner group before building anything.**
+
+### 7. Laser-cut layered-wood topographic maps of European lakes, Alpine valleys and ski areas (personalised)
+- **What you sell / type:** Physical, laser. 7–12-layer birch-plywood relief maps (stained by depth), framed, with a personalised engraved plate. Launch with 20–30 stock designs: Lipno, Mácha Lake, Krkonoše/Šumava ski areas, Lake Garda, Wolfgangsee, Königssee, Zillertal, Chamonix. Custom locations are extra.
+- **Buyer & channel:**
+  - Buyers: DE/AT/CH/NL/CZ gift buyers and cottage or chalet owners.
+  - Channels: Etsy (original designs from open elevation data), own shop, Pinterest.
+- **Price (€):** €79–189 (custom +€30).
+- **Unit economics (*estimate*):**
+  - €119 + €12 shipping = €131.
+  - Costs: plywood, stain and glue ≈ €10, frame and backing ≈ €8, engraved plate ≈ €1, packaging ≈ €4, fees ≈ €18.5, VAT on fees ≈ €3.9, shipping large flat ≈ €12, returns and breakage ≈ €3.
+  - **Net ≈ €70 per unit.** Labour about 60–90 min per unit (sanding, staining, gluing), within the brief's limit.
+- **Demand evidence:**
+  - Etsy snippets describe **bestsellers** in the category: "3D WOOD Custom Lake, Island, Coast maps with Bathymetric & Topographic designs", "Custom 3D Lake Maps … any lake", "Ski Trail Maps with Layered Wood", "Smith Mountain Lake 9-layer wood topographic map".
+  - Category pages:
+    - https://www.etsy.com/market/laser_topographic_maps
+    - https://www.etsy.com/market/wood_topographic_map
+    - https://www.etsy.com/market/custom_lake_topography_map
+    - https://www.etsy.com/market/laser_cut_topographic_map
+  - **No sales counts retrieved.**
+- **Supply gap / asymmetry evidence:**
+  - The visible bestsellers are **US lakes** (Smith Mountain Lake, Lake Tahoe, Bighorn).
+  - A European/Alpine catalogue seems thinner, but this is *hypothesis only*.
+  - Counter-evidence: SVG design files for layered maps are sold on Etsy (https://www.etsy.com/market/topographic_map_laser_file), so anyone with a laser can compete.
+- **Edge for a CZ-based solo founder:**
+  - Cheap Czech birch plywood and labour.
+  - 1-day drive to Alpine markets for craft fairs, optional.
+  - Free EU elevation data (Copernicus DEM, *from memory*).
+  - Czech/German listings.
+- **Startup cost (€) & hours/week:** about **€1,800–3,500** (*estimate*): 20–40 W diode or entry CO2 laser, fume extraction or ventilation, clamps, finishing supplies, 10 sample maps. 10–12 h/week (labour-heavy: about 5–7 maps/week max).
+- **Realistic monthly profit after 12 months (*estimate*):**
+  - Pessimistic **€0–70**
+  - Realistic **€350–550** (5–8 units)
+  - Optimistic **€1,100** (≈16 units; the Christmas peak lifts the annual average)
+- **CZ/EU legal/regulatory notes:**
+  - Map data licence: OpenStreetMap is ODbL and needs attribution. Copernicus DEM is free with attribution (*from memory*).
+  - Ski-resort names and trail maps may be copyrighted or trademarked, so **draw trails from open data and don't copy resort maps or logos**.
+  - EUDR (EU deforestation regulation) applies to wood placed on the EU market, but buying plywood from EU distributors covers it (*from memory; check the application date*).
+  - Laser fumes: follow workplace and neighbour nuisance rules at home.
+- **Key risks:**
+  - Labour-bound, so it doesn't scale in 10–15 h/week.
+  - Bulky and fragile shipping.
+  - Strong US competition and cheap SVG clones.
+  - Highly seasonal (Q4).
+- **Confidence (1–5): 2.**
+
+---
+
+## Rejected
+
+- **Gridfinity bins and baseplates.** The price has collapsed. Etsy search shows individual Gridfinity bins from **about $3.56** (https://www.etsy.com/market/gridfinity, https://www.etsy.com/listing/1757077703/custom-3d-printed-gridfinity-bins-3x1-to). The system is an open, free design whose core audience owns printers and prints its own. Etsy's June 2025 originality rule also bars selling someone else's Gridfinity variants.
+- **Tabletop wargaming terrain and bits.** Most sellable designs are third-party STLs, and since **10 June 2025 Etsy bans 3D-printed items from third-party designs even with a commercial licence** (https://www.tctmagazine.com/from-templates-to-originality-etsy-new-3d-printing-policy/). "Bits" and upgrade parts for Games Workshop armies invite IP takedowns (*general knowledge*). The buyers are exactly the demographic that owns resin printers.
+- **"Print farm reselling licensed commercial STLs on Etsy" as a model.** Explicitly killed by the same Etsy policy change (https://www.valueaddedresource.net/etsy-creativity-standards-update-june-2025/, https://printie.com/blog/2025-11-16-etsy-creativity-standards-3d-printing). It survives only on own-shop, eBay or Kaufland channels, where there is no Etsy search traffic.
+- **Simson moped 3D-printed parts (DE).** The niche is already industrialised. Established Simson shops run dedicated "3D-Druck Teile" categories:
+  - OstOase (https://www.ostoase.de/3D-Druck-Teile)
+  - AKF Shop (https://www.akf-shop.de/simson-ersatzteile/tuningteile-fame-parts/3d-druck-teile/)
+  - mopedersatzteil.de (https://www.mopedersatzteil.de/3D-Druck-Teile)
+  - prix3d (https://prix3d.de/c/3d-druck-produkte/tuning-ersatzeile/simson)
+  - 2taktshop (https://2taktshop.de/collections/3d-druck-teile)
+  - The search summary also cites 5,000+ Simson part 3D models available.
+
+  A newcomer has no edge.
+- **Jawa / Babetta / Pionýr repro plastic parts (CZ).** The ticket is low and the niche is crowded:
+  - 3D-printed Babetta light covers sell for **150 CZK** on Bazoš (https://motorky.bazos.cz/inzeraty/3d-tisk/).
+  - Several Czech shops already do 3D-printed parts: Moto Kůlna (https://www.motokulna.cz/dily-babetta/), Motoludan "3D TISK" (https://www.motoludan.cz/3d-tisk), plus parts dealers Birdgarage, Partdeck and Jawa-Korda.
+
+  At €6 per part, the margin can't cover CZ shipping and time.
+- **Board-game inserts and organisers.**
+  - Each game needs a new CAD project.
+  - The audience is hobbyist-heavy and prints its own. BoardGameGeek has geeklists of self-printed inserts (https://boardgamegeek.com/geeklist/308792/my-favorite-3d-printer-boardgame-insert-organizers).
+  - Strong incumbents already exist: Broken Token, Meeple Realty, Folded Space and e-Raptor, the last in neighbouring Poland (https://thetabletoptribune.com/insert-and-organizer-roundup/).
+- **3D-printed / lithophane lamps.** A lamp is mains or USB electrical equipment, so it needs CE under LVD/EMC/RoHS plus **WEEE registration per country**. That is the same compliance load as candidate 5 on a lower-margin, bulky, fragile product with heavy Etsy competition. *Reasoning only: no market data gathered because the search budget was exhausted.*
+- **FPV drone parts, mechanical-keyboard cases and generic personalised laser-engraved goods** (keychains, pet tags, cutting boards). *Reasoning only, not researched this session.*
+  - Drone TPU parts and keyboard cases sell to makers who print or CNC their own. Keyboard cases also compete with Chinese CNC aluminium group-buys.
+  - Engraved goods are the lowest-barrier laser product: a €300–600 diode laser (*from memory*) competes directly.
+  - None of the three has a CZ edge or a supply-gap signal.
