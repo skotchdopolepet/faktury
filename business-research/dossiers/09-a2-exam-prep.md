@@ -11,7 +11,7 @@ Exchange rate: 24.5 CZK/€. I assume the founder is a **native Czech speaker**.
 
 ## 1. Verdict in 3 lines
 - **Conditional go, as a small time-boxed test and not as a main bet.** Spend ≤ €1,000 and about 40 hours on a paid "Starter kit" pre-sale, then build the full pack only if at least 30 buyers pay within 4 weeks.
-- **Realistic month-12 profit: about €700/month before income levies (about €610 after).** Pessimistic about €0–200 (most likely killed at day 90); optimistic about €2,300.
+- **Realistic month-12 profit: about €700/month before income levies (about €630 after).** Pessimistic about €0–200 (most likely killed at day 90); optimistic about €2,300.
 - **Biggest risk: distribution, not product.** Reaching Ukrainian and Vietnamese buyers cheaply is hard when two free official new-format model tests and several free or freemium sites exist. If Google Ads is the only working channel, net per sale falls to about €7.
 
 ## 2. The exact offer
@@ -48,7 +48,7 @@ Sold from your own Czech-language-neutral site (CZ/EN/UA/RU/VI UI). Delivery is 
 - **People already pay for prep:**
   - **ExamOnline sells a digital pack (3 sample tests + audio + transcripts) for 1,900 Kč.** [verified: https://examonline.cz/en/cestina-trvaly-pobyt/]
   - CzechReady puts writing, speaking and full mocks behind a **premium plan**. [verified: https://czechready.cz/]
-  - EduJoy sells a 12-hour hybrid course at 3,990 Kč (2,990 Kč early-bird). [verified: https://edujoy.cz/ua/ (UA blog page on the A2 prep course)]
+  - EduJoy sells a 12-hour hybrid course at 3,990 Kč (2,990 Kč early-bird). [verified: https://edujoy.cz/ua/%D0%BF%D1%80%D0%BE-%D0%BD%D0%B0%D1%81/blog/%D0%BA%D1%83%D1%80%D1%81-%D0%BF%D1%96%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-%D0%B4%D0%BE-%D1%96%D1%81%D0%BF%D0%B8%D1%82%D1%83-%D0%B7-%D1%87%D0%B5%D1%81%D1%8C%D0%BA%D0%BE%D1%96-%D0%BC%D0%BE%D0%B2%D0%B8-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D1%81%D1%82%D1%96%D0%B8%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BF%D1%80%D0%BE%D0%B6%D0%B8%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F-a2/]
   - ICJ charges 5,400 Kč for 40 h. [verified: https://icj.cz/en/preparation-for-the-a2-exam-for-permanent-residence-new-format-2026/]
   - UJOP charges 1,580 Kč for 90 min. [verified: https://ujop.cuni.cz/UJOPEN-74.html?ujopcmsid=68:individual-preparation-for-the-exam-for-permanent-residence-applicants]
   - **What's still missing:** no sales counts for any digital pack. Scorer A's objection that "nobody has shown a sale of a self-study pack" is only half answered: paid packs *exist*, but their volume is unproven. The stage-1 pre-sale exists to measure it.
@@ -196,7 +196,7 @@ Assumptions [estimate]:
 | Scenario | Month 3 | Month 6 | Month 12 | Assumptions |
 |---|---|---|---|---|
 | Pessimistic | €80 | €140 | €200 (likely killed at day 90 → €0–50 passive) | 8 → 12 → 15 sales/month at €15 net; ads-dependent; no B1 pack |
-| **Realistic** | **€300** | **€500** | **€700** (≈ €610 after levies) | 20 → 30 → 32 A2 sales at €18–19 (≈ 2.5% of about 1,250 candidates/month) + 8 B1 sales at €24 from month 6; fixed costs €45–60 |
+| **Realistic** | **€300** | **€500** | **€700** (≈ €630 after levies) | 20 → 30 → 32 A2 sales at €18–19 (≈ 2.5% of about 1,250 candidates/month) + 8 B1 sales at €24 from month 6; fixed costs €45–60 |
 | Optimistic | €750 | €1,200 | €2,300 | 40 → 60 → 75 A2 at €20–21 + 25 B1 at €25 + about €200 B2B; strong affiliate/community pull |
 
 The realistic figure is slightly below the longlist's €700–900, because the format-change "window" is weaker than claimed and paid CAC eats a lot of the margin.
