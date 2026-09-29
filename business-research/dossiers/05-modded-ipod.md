@@ -6,8 +6,8 @@ Date: 2026-09-29. Tags: **[verified: URL]** means a search-result snippet seen t
 
 ## 1. Verdict in 3 lines
 
-1. **Conditional go, but only as a small, CZ-domestic business (5–10 units a month).** The pitch of "EU buyers at €190–300" doesn't survive the costs: DE WEEE and battery registration, 21% reverse-charge VAT on eBay and Etsy fees, and the €10k OSS threshold together shrink the DE net to about €10–35 per unit.
-2. **Realistic month-12 profit: about €500/month** before income tax and levies, roughly €20/h. At that level the social-insurance cliff applies, so about €330/month is left after levies.
+1. **Conditional go, but only as a small, CZ-domestic business (5–10 units a month).** The pitch of "EU buyers at €190–300" doesn't survive the costs: DE WEEE and battery registration, 21% reverse-charge VAT on eBay and Etsy fees, and the €10k OSS threshold together cut the eBay.de net to ≈ €34 per unit, and to ≈ €0 once EU sales pass the €10k OSS threshold.
+2. **Realistic month-12 profit: about €500/month** before income tax and levies, roughly €20/h. At that level the social-insurance cliff applies, so about €310/month is left after levies.
 3. **Biggest risk: a margin squeeze with no moat.** German and Czech modders have the same donors, parts and YouTube tutorials. Meanwhile donor and microSD costs are rising: 512 GB cards roughly doubled to ~$70. That can push the CZ net from about €90 down to about €50.
 
 ## 2. The exact offer
@@ -94,19 +94,19 @@ The table rests on these assumptions:
 | Donor | 30 | 30 | 30 | 30 |
 | Adapter / card / battery / shell & sundries | 18 / 38 / 14 / 8 | 18 / 38 / 14 / 8 | 18 / 38 / 16 / 8 | 50 / 72 / 26 / 26 |
 | Packaging + GPSR leaflet | 2.5 | 2.5 | 2.5 | 3 |
-| Platform fee | 0 | 22.3 | 26.5 | 0 |
-| Payment fee | 1 (COD/transfer) | incl. | incl. | 1 |
+| Platform fee | 0 | 22.3 | 23.5 | 0 |
+| Payment fee | 1 (COD/transfer) | incl. | 10.2 | 1 |
 | VAT on fees (21%) | 0 | 4.7 | 5.4 | 0 |
 | Ads (promoted listings / Etsy Ads / bumps) | 1 | 10.6 | 2 | 1 |
 | Shipping from CZ | 0 (buyer pays Packeta) | 8 | 0 (pass-through) | 0 |
 | Returns and warranty reserve | 10 | 14 | 14 | 12 |
 | DE/EU compliance allocation | 0 | 15 | 15 | 0 |
-| **Net per unit** | **≈ €94** | **≈ €34** | **≈ €50** | **≈ €85** |
+| **Net per unit** | **≈ €94** | **≈ €34** | **≈ €56** | **≈ €85** |
 
 - **Returns reserve.** It assumes 8–12% of units cause an incident in 12 months at about €40 each, plus a 3–5% withdrawal rate [estimate: no published data].
   - Known failure points: torn headphone-jack/hold-switch flex on 6G/7G, clone adapters dropping out, fake or failing cards, and batteries that won't charge. Third-party battery charge failures are reported [verified: https://www.iflash.xyz/3rd-party-extended-battery-guide/].
   - Germany adds cost: shortening the warranty for used goods needs a separate express agreement (§476 BGB), so **plan for 24 months on DE sales** [knowledge].
-- **VAT trap for DE.** Once EU cross-border B2C sales pass **€10,000 a year** (about 45 units), you must charge 19% DE VAT via OSS. That costs about €35 per unit and pushes S1 on eBay.de to **≈ €0** (quickstart §3.2).
+- **VAT trap for DE.** Once EU cross-border B2C sales pass **€10,000 a year** (about 45 units), you must charge 19% DE VAT via OSS. That costs about €35 per unit, which pushes S1 on eBay.de to **≈ €0** and S2 on Etsy to about €20 (quickstart §3.2).
   - The margin scheme doesn't rescue it: the donor cost is tiny, so VAT on the margin is almost VAT on the whole price.
 - **Implication:** CZ direct is the only channel with a solid margin. DE only makes sense at **≥ €249** and under the €10k cap.
 
@@ -154,7 +154,7 @@ The table rests on these assumptions:
 | **2: scale in CZ (months 3–6)** | **+€1,500** | Rolling stock of 12 donors plus parts for 10 (self-funding after the first cycle); soldering station for optional USB-C €100; returns float €200 | Run-rate ≥ 8/month at ≥ €70 net |
 | **3: optional DE/Etsy (months 6–12)** | **+€1,200–1,700 a year** | DE WEEE + battery authorised representative, stiftung ear fees, LUCID + dual system [estimate: no current price list found; combined packages exist, verified: https://click-and-comply.com/products/kombivertrag-elektroaltgerate-und-batterien] | Only if DE sold comps (check eBay.de "Verkaufte Artikel" by hand) show a median ≥ €249 |
 
-- **Cumulative ≤ €4,000.** Don't use the €8,500 ceiling: stock must turn within 30 days, so extra capital adds only fad risk.
+- **Cumulative about €4,000.** Don't use the €8,500 ceiling: stock must turn within 30 days, so extra capital adds only fad risk.
 
 ## 10. Projections (monthly profit before income tax and levies)
 
@@ -162,7 +162,7 @@ The table rests on these assumptions:
 |---|---|---|---|
 | 3 | €60 (2 units × €45, minus €30 fixed) | €250 (4 × €70 − €30) | €450 (6 × €80 − €30) |
 | 6 | €150 (4 × €45 − €30) | €400 (5 CZ × €85 + 2 DE × €45 − €110) | €760 (8 CZ × €90 + 3 DE × €50 − €110) |
-| 12 | **€250** (CZ only, 5 × €55: price compression to 4,490 Kč, €40 donors) | **€500** (7 CZ × €80 + 2–3 DE/Etsy × €40 − €130 fixed) | **€1,200** (8 CZ × €95 + 10 DE/Etsy × €60 − €130) |
+| 12 | **€250** (CZ only, 5 × €55: price compression to 4,490 Kč, €40 donors) | **€500** (7 CZ × €80 + 2–3 DE/Etsy × €40 − €130 fixed) | **€1,100** (12 CZ × €90 + 3 DE/Etsy × €55 − €130; EU sales kept under €10k/yr) |
 
 - **Fixed costs:** about €30/month for CZ-only (accounting app, product-liability insurance [estimate]); about €130/month once DE is registered.
 - **Levies:** about €6,000 a year of profit crosses the 117,521 CZK social-insurance cliff, so set aside ~38%.
@@ -201,7 +201,7 @@ The table rests on these assumptions:
 | Day | Kill if |
 |---|---|
 | **30** | Fewer than 6 usable donors found at ≤ €30 effective, **or** the median broken-6G/7G final price is > 800 Kč, **or** 2+ of the first 3 builds are unrecoverable |
-| **60** | Fewer than 4 units sold, **or** average realised price < 4,690 Kč, **or** net < €55/unit, **or** 2+ warranty/withdrawal incidents in the first 6 |
+| **60** | Fewer than 4 units sold (exactly 4 means extend 30 days), **or** average realised price < 4,690 Kč, **or** net < €55/unit, **or** 2+ warranty/withdrawal incidents in the first 6 |
 | **90** | Fewer than 10 cumulative sales, **or** run-rate < 5 a month, **or** active time > 2.5 h/unit. Separately, no DE entry if DE sold comps median < €249 |
 
 ## 14. 12-week launch plan

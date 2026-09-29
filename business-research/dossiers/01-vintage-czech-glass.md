@@ -39,8 +39,8 @@ Date: 2026-09-29. Evidence tags: **[verified: URL]** means a search-result snipp
     - "a vase with this pattern… collectors pay up to 78,000 Kč" [verified: https://www.tiscali.cz/kdo-ma-doma-starou-sklenenou-vazu-s-timhle-nenapadnym-lomenym-vzorem-sedi-na-malem-jmeni-sberatele-za-ni-davaji-i-78-000-kc-723304];
     - "a box of ornaments after grandma for 12,000 Kč" [verified: https://extrafit.cz/nemate-doma-po-babicce-stare-vanocni-ozdoby-za-jednu-krabici-dnes-sberatele-nabizeji-i-12-000-kc/].
   - **Ornaments at Bazoš asking prices.** Boxes run 500–1,000 Kč, and a 1963 set of 6 costs 400 Kč [verified: https://ostatni.bazos.cz/inzeraty/vanocni-ozdoby/, https://ostatni.bazos.cz/inzeraty/stare-ozdoby/]. That is about €2.7 per piece against $3.75 abroad, so **there is no spread at Bazoš asks**.
-- **Where the gap persists:** unidentified pieces in mixed lots ("pozůstalost", "vyklízení", "krabice skla"). The edge there is identification work: reading Czech catalogues and knowing the factories. It is not mere access. A bazos.sk Rosice vase listed at **€20** [verified: https://ostatne.bazos.sk/inzerat/195937716/vaza-zo-serie-sklo-union-rosice.php] against €40–120 exits illustrates the spread for identified mid-tier pieces.
-- **Durability:** moderate and long. Other CZ/SK pickers compete, but the supply is fragmented and needs local labour, so it can't be industrialised.
+- **Where the gap persists:** unidentified pieces in mixed lots ("pozůstalost", "vyklízení", "krabice skla"). The edge is identification work (Czech catalogues, factory knowledge), not mere access. Example: a Rosice vase listed at **€20** on bazos.sk [verified: https://ostatne.bazos.sk/inzerat/195937716/vaza-zo-serie-sklo-union-rosice.php] against €40–120 exits.
+- **Durability:** moderate and long. Other CZ/SK pickers compete, but fragmented supply that needs local labour can't be industrialised.
 
 ## 5. Competitor map
 
@@ -84,15 +84,11 @@ Date: 2026-09-29. Evidence tags: **[verified: URL]** means a search-result snipp
 | **€ per hour** | **€25** | **€21** | **€16** | **€17** | **€75** |
 
 **Takeaways** [estimate, computed]:
-- The US leg costs roughly as much net as EU, but the US buyer pays €90 instead of €68. That is 32% more friction, so expect lower conversion.
-- Line C is barely worth it. Raise the floor, or sell such pieces only in sets.
-- Line E drives the optimistic case, but such finds are rare: 1–2 a month at best.
+- The US unit nets about the same as the EU one, but the US buyer pays €90 instead of €68 (32% more), so expect lower conversion.
+- Line C is barely worth it: raise the floor or sell in sets.
+- Line E drives the optimistic case, but such finds come 1–2 a month at best.
 
-**Breakage** [knowledge + estimate]:
-- Etsy and eBay make the seller refund broken arrivals.
-- Carrier compensation for glass is uncertain (see section 15).
-- With a proper double box (3 layers of bubble wrap, an inner box, at least 5 cm of fill on every side, then an outer box), glass sellers commonly report 1–2% breakage. Scorer C budgets 1–3%.
-- Photograph every packed parcel so claims are possible.
+**Breakage** [knowledge + estimate]: Etsy and eBay make the seller refund broken arrivals, and carrier compensation for glass is uncertain (section 15). With a proper double box (3 layers of bubble wrap, an inner box, ≥ 5 cm of fill on every side, an outer box), glass sellers commonly report 1–2% breakage; scorer C budgets 1–3%. Photograph every packed parcel so claims are possible.
 
 ## 7. Sourcing plan and realistic weekly volume
 "Saleable" means identified, undamaged, and an expected sale of at least €35 (or at least €1/pc bundle stock).
@@ -178,9 +174,9 @@ Month 3 is Dec 2026 (the Q4 peak), month 6 is Mar 2027 (the trough) and month 12
   2. **The €10,000/yr EU B2C distance-sales threshold** (all other EU states combined, *including shipping charged*). The realistic month-12 run rate (25 × 55% EU × €62) ≈ **€10.2k/yr**, right at the line. Above it you charge destination VAT on the **full price** via OSS: DE 19%, which is ≈ €10.9 on a €68 order, about 35% of unit net. Sales to CZ, the UK (the marketplace collects VAT), the US and CH do not count toward the threshold.
   3. **Margin scheme (§ 90):** **irrelevant in year 1.** It is only for VAT payers, and the payer threshold of 2M CZK (~€80k) is far away.
      - It matters only if EU sales pass €10k. Margin-scheme goods are excluded from distance-sales rules [verified: https://www.du.cz/33/90-zdph-zvlastni-rezim-pro-obchodniky-s-pouzitym-zbozim-umeleckymi-dily-sberatelskymi-predmety-a-starozitnostmi-uniqueidmRRWSbk196FNf8-jVUh4Ep4e0Vmy5oaCuF3mPlrgfE0CD-vMUnwPlw/], so VAT stays Czech 21% on the *margin*.
-     - Buy prices are tiny, so the margin is ~88% of the price. VAT is then ≈ €10.4 per €68 order, minus deductible input VAT (≈ €4 on shipping, packaging and fees), ≈ €6.4, against ≈ €12.3 for a non-payer on OSS (€10.9 plus €1.4 of non-deductible fee VAT).
-     - The saving of ≈ €6 per EU order roughly equals the extra accountant cost and domestic-VAT burden at 14 EU orders a month [estimate].
-     - **Decision rule for year 2:** keep EU B2C under €10k by routing volume to UK, US and CZ; revisit voluntary registration plus § 90 only above ~30 EU orders a month.
+     - Buy prices are tiny (margin ≈ 88% of price), so § 90 VAT is ≈ €10.4 per €68 order, or ≈ €6.4 after deducting ≈ €4 of input VAT on shipping, packaging and fees. A non-payer on OSS pays ≈ €12.3 (€10.9 + €1.4 of non-deductible fee VAT).
+     - The ≈ €6 saving per EU order roughly equals the extra accountant and domestic-VAT burden at 14 EU orders a month [estimate].
+     - **Year-2 rule:** keep EU B2C under €10k by routing volume to UK, US and CZ; consider voluntary registration plus § 90 only above ~30 EU orders a month.
 - **GPSR:**
   - Second-hand consumer goods are in scope; antiques are excluded [knowledge]. As a distributor, fill the marketplace GPSR fields.
   - Describe glass and ceramics as **decorative**, and state "vintage glaze/glass, not tested for lead or cadmium release; not for food use", because Reg. 1935/2004 food-contact rules otherwise attach [knowledge].
@@ -217,6 +213,11 @@ Month 3 is Dec 2026 (the Q4 peak), month 6 is Mar 2027 (the trough) and month 12
 | €10k EU VAT threshold | Monthly tracker; channel routing (section 11) |
 | US tariff or postal rules change again | Treat the US as a bonus, never as the base |
 | Etsy account or algorithm risk | eBay.de and Catawiki live from week 3 |
+
+**Scorer objections, answered:**
+- **A (economics only 5: heavy, fragile, US duty, 35–90 min).** Confirmed. Net is €29–31 on mid-tier pieces and €16–17 on cheap pieces and ornament bundles, i.e. €16–25/h. The fix is a price floor, not volume.
+- **B (low €/h, slow sell-through, unmeasured buy prices, many pickers).** Buy prices are now partly evidenced: a €20 bazos.sk vase, and ornament boxes at €2.7/pc, which kills ornament arbitrage at asks. Sell-through is still unmeasured, which is why the day-60 gate exists.
+- **C (Aukro collectors price up famous names; US impaired).** Agreed. The plan buys mixed lots and mid-tier identified pieces, sells EU-first, and never bids against collectors on Aukro.
 
 ## 13. Kill criteria
 

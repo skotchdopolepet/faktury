@@ -34,3 +34,14 @@ Each dossier listed the claims that would most change its verdict. The orchestra
   - the free official preparation page on cestina-pro-cizince.cz
   - Sources: https://czechready.cz/, https://examonline.cz/en/courses/cestina-trvaly-pobyt/, https://icj.cz/en/preparation-for-the-a2-exam-for-permanent-residence-new-format-2026/, https://ujop.cuni.cz/UJOPEN-74.html?ujopcmsid=68:individual-preparation-for-the-exam-for-permanent-residence-applicants, https://studyfun.cz/cz/courses/czech/czech-preparation-course-for-permanent-residence-a2-language-test
 - **Implication:** demand is real (roughly 14,000 candidates a year) and so is the supply. With an 86% pass rate, most candidates don't feel desperate. The niche is contested and asymmetry is weak; the remaining angle is native-language (UA/VI) writing and speaking drills.
+
+## Dossier 03: moldavite (C03)
+- **Claim: "moldavite is a reserved mineral (vyhrazený nerost), and much cheap finder supply is illegally dug." CONFIRMED.** Moldavite is named as a reserved mineral in the mining law (horní zákon, 44/1988), and digging it requires a permit. Illegal diggers are a well-documented problem in South Bohemia:
+  - 45 diggers were caught in 3.5 months.
+  - ČIŽP issues activity bans, and repeat offenders face criminal charges (up to 2 years).
+  - A fine of 600,000 CZK was reported.
+  - Sources: https://www.seznamzpravy.cz/clanek/zelene-jihoceske-prokleti-proc-stat-nezastavi-uniky-z-kseftu-s-vltaviny-74560, https://budejovice.rozhlas.cz/ilegalnich-kopacu-vltavinu-pribyva-potrebujeme-zmenu-zakona-a-tvrdsi-tresty-9066725, https://ceskokrumlovsky.denik.cz/zpravy_region/vltaviny-kopaci-pokuta-besednice-netolice-policie.html, https://cesky.radio.cz/zelena-horecka-na-jihu-cech-pokracuje-kopace-vltavinu-neodrazuji-pokuty-ani-8844088
+- **Implication:** the "buy from finders at 100–200 Kč/g" arbitrage from 02-main-loop-evidence.md is **legally tainted**. A clean business must buy invoiced stock from licensed sources at 250–1,000 Kč/g, as the dossier says, which shrinks the spread to about 2×.
+- **Claim: "the hype has faded since 2021." PARTLY CONFIRMED.** Searches show 2021 was the TikTok peak (shops couldn't keep stock). In 2025 there is still "measurable but more variable" interest in moldavite rings and necklaces. No quantitative Trends comparison was retrieved.
+  - Sources: https://theorion.com/86590/news/tiktok-dramatically-impacts-local-crystal-shops/, https://www.accio.com/business/moldavite_tiktok_trend
+- **Orchestrator decision:** downgrade to "optional add-on line in a vintage shop, legal stock only". It goes to the steelman review and doesn't get its own panel.
