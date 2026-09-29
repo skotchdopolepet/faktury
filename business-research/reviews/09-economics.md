@@ -117,13 +117,13 @@ At a realistic 12 effective h/week, the full A2 pack ships around **month 6–7*
   - Months 3–12: 8 → 20 A2 sales per month, about 136 in total.
   - B1 from month 9: 2 → 4 per month, about 13 in total.
 - **Year-1 cash:**
-  - Contribution after ads ≈ €2,450.
+  - Contribution after ads ≈ €2,450–2,700. The lower end reflects months 3–7, when only the 590 Kč 4-mock product exists.
   - Fixed costs ≈ €840.
   - One-off build ≈ €3,500.
-  - **Year-1 net ≈ −€1,700.**
+  - **Year-1 net ≈ −€1,650 to −€1,900.**
   - Maximum drawdown is about €2,500–3,000, around month 7–8.
 - **Break-even:** around month 18, at a run-rate of about €300/month.
-- **Year-1 €/hour:** negative. About 600 h in total (≈ 300 h build + ≈ 300 h run and marketing) for about −€1,700.
+- **Year-1 €/hour:** negative. About 600 h in total (≈ 300 h build + ≈ 300 h run and marketing) for about −€1,650 to −€1,900.
 - **Lifetime (to about 2029–30, when the format next changes):**
   - Assumes maintenance mode at 4–6 h/week earning €200–350/month.
   - That works out to roughly **€3–6/hour** over the product's life.
