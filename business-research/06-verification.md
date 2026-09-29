@@ -45,3 +45,16 @@ Each dossier listed the claims that would most change its verdict. The orchestra
 - **Claim: "the hype has faded since 2021." PARTLY CONFIRMED.** Searches show 2021 was the TikTok peak (shops couldn't keep stock). In 2025 there is still "measurable but more variable" interest in moldavite rings and necklaces. No quantitative Trends comparison was retrieved.
   - Sources: https://theorion.com/86590/news/tiktok-dramatically-impacts-local-crystal-shops/, https://www.accio.com/business/moldavite_tiktok_trend
 - **Orchestrator decision:** downgrade to "optional add-on line in a vintage shop, legal stock only". It goes to the steelman review and doesn't get its own panel.
+
+## Dossier 01: vintage Czech glass (C02)
+- **Claim: "EU sellers' US sales collapsed after de minimis ended." CONFIRMED and severe.** After Aug 2025, organic Etsy search traffic for international sellers dropped **20–50% on average**, because Etsy's algorithm shows items carrying duty risk less often. One UK seller reported **−70% revenue year on year**, and buyers face "warning banners". This supports the dossier's "EU buyers first" pivot, and means the historic US-heavy success of CZ vintage shops **can't be assumed to repeat**.
+  - Sources: https://westernbid.com/en/blog/the-abolition-of-the-deminimus-in-the-us/, https://www.nbcbayarea.com/news/business/etsy-sellers-struggle-trump-tariffs/4078853/, https://www.capradio.org/news/npr/story?storyid=nx-s1-5522054, https://www.ecommercebytes.com/2026/06/26/how-etsy-is-handling-new-european-fees/
+- **Claim: CZ-side prices of Sklo Union pressed glass (Aukro).** The market is ACTIVE and collectors are well informed:
+  - Aukro carries many named-designer Sklo Union / Rosice listings (Vízner, Urban, Zejmon).
+  - At Prague Auctions (Oct 2024), Vízner vases sold for 35,000 and 78,000 CZK.
+  - An undamaged attributed piece sells for about 4,000 CZK, **but any defect drops it to a few hundred CZK**.
+  - Czech media (Tiscali and others, 2026) publish "your old vase is worth a fortune" articles, which inflate domestic asking prices.
+  - Sources: https://aukro.cz/vaza-vladislav-urban-serie-morava-1969-sklo-union-rosice-7038570582, https://www.pragueauctions.com/akce/kalendar/sklo-a-keramika-9/, https://www.tiscali.cz/kdo-ma-doma-starou-sklenenou-vazu-s-timhle-nenapadnym-lomenym-vzorem-sedi-na-malem-jmeni-sberatele-za-ni-davaji-i-78-000-kc-723304, https://www.nespechej.cz/clanky/do-teto-nenapadne-stare-vazicky-byste-nikdy-nerekli-ze-ma-pro-sberatele-cenu-4-000-kc-po-cesku-jsou-jich-tisice-kusu-20260728-9556.html
+  - **Implication:** CZ sellers are increasingly aware of what their pieces are worth, so the arbitrage lies in unlabelled pieces at flea markets and house clearances, not on Aukro.
+- **Claim: Catawiki seller commission.** CONFIRMED at **12.5% of the hammer price (excl. VAT)**, with no commission on shipping.
+  - Sources: https://www.catawiki.com/en/help/become-a-seller/how-does-selling-on-catawiki-work, https://www.eurosender.com/en/selling-guide/catawiki

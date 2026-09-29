@@ -6,7 +6,7 @@ Date: 2026-09-29. Tags: **[verified: URL]** means a search-result snippet seen t
 
 ## 1. Verdict in 3 lines
 
-1. **Conditional go, but only as a small, CZ-domestic business (5–10 units a month).** The pitch of "EU buyers at €190–300" doesn't survive the costs: DE WEEE and battery registration, 21% reverse-charge VAT on eBay and Etsy fees, and the €10k OSS threshold together cut the eBay.de net to ≈ €34 per unit, and to ≈ €0 once EU sales pass the €10k OSS threshold.
+1. **Conditional go, but only as a small, CZ-domestic business (5–10 units a month).** The pitch of "EU buyers at €190–300" doesn't survive the costs: DE WEEE and battery registration plus 21% reverse-charge VAT on eBay and Etsy fees cut the eBay.de net to ≈ €34 per unit, and it falls to ≈ €0 once EU sales pass the €10k OSS threshold.
 2. **Realistic month-12 profit: about €500/month** before income tax and levies, roughly €20/h. At that level the social-insurance cliff applies, so about €310/month is left after levies.
 3. **Biggest risk: a margin squeeze with no moat.** German and Czech modders have the same donors, parts and YouTube tutorials. Meanwhile donor and microSD costs are rising: 512 GB cards roughly doubled to ~$70. That can push the CZ net from about €90 down to about €50.
 
@@ -26,16 +26,12 @@ Date: 2026-09-29. Tags: **[verified: URL]** means a search-result snippet seen t
   - Warranty repairs are a legal duty, not a service line.
 - **Walkman add-on: don't make it a line.**
   - Belts are cheap, but idler tyres, motors, speed calibration and corroded contacts often push the work past 2 h per unit [knowledge].
-  - New players cap the price for the casual buyer: FiiO CP13 at ≈ €110–130, We Are Rewind at ≈ €90–110 [knowledge].
-  - No demand data was gathered (the hunter rated it 2/5).
+  - New players cap the price for casual buyers: FiiO CP13 ≈ €110–130, We Are Rewind ≈ €90–110 [knowledge]. No demand data exists (hunter confidence 2/5).
   - Only sell Walkmans that arrive in donor lots and need under 1 h. They are EEE (WEEE applies) but hold no Li-ion cells.
 
 ## 3. Why it makes money (demand evidence)
 
-- **The trend is real and current.**
-  - iPod Classic searches rose 25% (Jan–Oct 2025 vs 2024), and refurbished iPod sales have grown 15.6% a year since 2022 [verified: https://www.rd.com/article/ipods-back-in-style/].
-  - The Gen-Z revival got mainstream coverage [verified: https://www.morningbrew.com/stories/2026/02/24/gen-z-is-putting-down-phones-and-picking-up-ipods].
-  - 2026 articles describe iPods as "increasing in value" [verified: https://partspluspods.com.au/2026/05/19/are-ipods-collectible-now-what-models-are-increasing-in-value/, https://www.slashgear.com/1952676/classic-ipod-resale-value-today/].
+- **The trend is real and current.** iPod Classic searches rose 25% (Jan–Oct 2025 vs 2024), and refurbished iPod sales have grown 15.6% a year since 2022 [verified: https://www.rd.com/article/ipods-back-in-style/]. Mainstream outlets covered the Gen-Z revival [verified: https://www.morningbrew.com/stories/2026/02/24/gen-z-is-putting-down-phones-and-picking-up-ipods], and 2026 articles call iPods "increasing in value" [verified: https://partspluspods.com.au/2026/05/19/are-ipods-collectible-now-what-models-are-increasing-in-value/].
 - **Price anchors for finished units.**
   - eBay.de: a 5G 256 GB with a new battery, "generalüberholt", Wolfson DAC, at **≈ €202.70** [verified: https://www.ebay.de/itm/317313595815].
   - eBay.com modded units range **$189.90–299.99** [verified: https://www.ebay.com/shop/ipod-classic-mod?_nkw=ipod+classic+mod].
@@ -43,20 +39,12 @@ Date: 2026-09-29. Tags: **[verified: URL]** means a search-result snippet seen t
   - Etsy: 7G 256 GB / 3,000 mAh at $358 [verified: https://www.etsy.com/listing/1673597987/apple-ipod-classic-7th6th-gen-grey].
   - PlayerMods "from $259" [verified: https://player-mods.com/].
 - **CZ anchor.** Working, *unmodded* units on Bazoš ask **3,500–7,490 Kč** [verified: https://elektro.bazos.cz/inzeraty/ipod-classic/]. A 5,290 Kč modded unit (new battery, flash, warranty) is therefore competitive against private asks.
-- **Supply strain, US only.**
-  - One US builder had "a persistent queue of orders" in Sept 2025 [verified: snippet, `01` C01].
-  - PlayerMods variants show as sold out [verified: https://player-mods.com/products/black-ipod-classic-7th-gen-upgraded-sdxc-personalised-media-player].
-- **What is missing.**
-  - No sold counts anywhere. Every price above is an asking price.
-  - **CZ demand volume is unmeasured.** This is the single most important unknown, and the stage-1 test exists to measure it.
+- **Supply strain is US-only.** One US builder had "a persistent queue of orders" in Sept 2025 [verified: snippet, `01` C01], and PlayerMods variants show as sold out [verified: https://player-mods.com/products/black-ipod-classic-7th-gen-upgraded-sdxc-personalised-media-player].
+- **What is missing:** sold counts (every price above is an asking price) and **CZ demand volume**. The latter is the most important unknown, and the stage-1 test exists to measure it.
 
 ## 4. Supply gap and asymmetry: honest assessment
 
-- **In DE there is no supply gap.**
-  - Kleinanzeigen has several iFlash builds, for example a 7G 512 GB with 2,000 mAh [verified: https://www.kleinanzeigen.de/s-iflash/k0].
-  - eBay.de has further listings [verified: https://www.ebay.de/itm/168461378829, https://www.ebay.de/itm/376701255536, https://www.ebay.de/itm/357501277854].
-  - DE repair shops sell SD conversions from 128 GB to 1 TB [verified: https://www.profi-repair.de/reparatur-apple-ipod-classic/].
-  - German modders also have cheap donors: eBay.at shows **96 "iPod classic defekt" listings from €14.26** [verified: https://www.ebay.at/sch/i.html?_sacat=10542&_nkw=ipod+classic+defekt&_frs=1]. Scorer A is right that CZ donor access is **not** a cross-border edge.
+- **In DE there is no supply gap.** Kleinanzeigen, eBay.de and DE repair shops all sell iFlash builds (§5; also [verified: https://www.ebay.de/itm/168461378829, https://www.ebay.de/itm/376701255536]). German modders have cheap donors too: eBay.at shows **96 "iPod classic defekt" listings from €14.26** [verified: https://www.ebay.at/sch/i.html?_sacat=10542&_nkw=ipod+classic+defekt&_frs=1]. Scorer A is right that CZ donor access is **not** a cross-border edge.
 - **The real asymmetry is the value step.** A €15–40 dead donor (the HDD is usually what died, and it is exactly the part the mod replaces) becomes a €160–300 product. Anyone with €100 of tools can capture it.
 - **The CZ market is probably thinner on the supply side.** It has fewer semi-pro modders than DE [estimate: CZ has ~1/8 of DE's population and no CZ modder surfaced in any search this session; unverified]. Selling domestically also avoids cross-border EPR and VAT, which is the one structural edge a CZ founder has.
 - **Durability: about 12–24 months.** Barriers are low, tutorials are abundant, and parts are on AliExpress, so expect price compression. Scorer B's call of "gap closes in 6–12 months" is plausible for DE; CZ should lag. Trade the trend with small, fast-turning stock. Don't build long-lived assets.
