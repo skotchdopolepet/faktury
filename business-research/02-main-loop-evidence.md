@@ -96,3 +96,13 @@ The orchestrator's own WebSearch still works, but subagents ran out of search bu
   - mz-b.com, shipping worldwide
   - Sources: https://www.4jawa.com/, https://www.ost2rad.de/Ersatzteile-Jawa-CZ/, https://www.akf-shop.de/Oldtimer-Exoten/JAWA/
 - **Verdict: there's no broad supply gap for Jawa parts in DE/NL.** Only specific unreproduced parts might be open.
+
+## Vintage lenses (Helios, Zeiss Jena)
+- eBay.de asking prices: Carl Zeiss Jena Pancolar 50/1.8 MC at **~$315**, Helios 44-2 at **$105–130**, and a "serviced" Helios 44-2 at $233 (reduced from $333). Etsy has "carl zeiss jena pancolar" market pages. Demand for adapted vintage lenses on mirrorless cameras is well documented in reviews. These are asking prices, not sold prices.
+  - Sources: https://www.ebay.de/itm/326539231898, https://www.ebay.de/itm/317036870421, https://www.etsy.com/market/carl_zeiss_jena_pancolar, https://alikgriffin.com/helios-44-2-review-king-character/
+- "Serviced" listings command roughly a **2× premium** over as-is ones, and servicing is a 1–2 h job.
+
+## Ex-lease mini PCs (homelab)
+- The Lenovo M720q/M920q Tiny is the default homelab recommendation. Units come off lease "by the thousand"; an M720q with i5-8500T/16 GB/256 GB sells for **~$90–110** (US). The RAM shortage raises the value of 16–32 GB configurations.
+  - Sources: https://budgethomelab.com/articles/used-mini-pc-homelab-under-200/, https://hometechhacker.com/5-great-proxmox-small-form-factor-hardware-options/
+- Supply is plentiful, so margins come from configuration and RAM, not from scarcity.
