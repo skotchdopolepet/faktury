@@ -58,3 +58,10 @@ Each dossier listed the claims that would most change its verdict. The orchestra
   - **Implication:** CZ sellers are increasingly aware of what their pieces are worth, so the arbitrage lies in unlabelled pieces at flea markets and house clearances, not on Aukro.
 - **Claim: Catawiki seller commission.** CONFIRMED at **12.5% of the hammer price (excl. VAT)**, with no commission on shipping.
   - Sources: https://www.catawiki.com/en/help/become-a-seller/how-does-selling-on-catawiki-work, https://www.eurosender.com/en/selling-guide/catawiki
+
+## Dossier 05: modded iPod (C01)
+- **Claim: donor prices in CZ.** CONFIRMED: donors are cheap. Aukro "nefunkční / na díly" (broken, for parts) iPod Classic listings range from **a few Kč to about 700 Kč**, with some at 240–1,580 Kč depending on model. Working 80–120 GB units are also listed. The donor supply exists.
+  - Sources: https://aukro.cz/lp/nejkvalitnejsi-apple-ipod-classic, https://aukro.cz/ipod-classic-a1136-80gb-horsi-stav-7018422486, https://aukro.cz/lp/apple-ipod
+- **Claim: competition among modded-iPod sellers.** CONFIRMED heavy. Many eBay.com listings sell "new sealed modded iPod Classic 256 GB–1 TB, new battery", largely from Chinese refurbishers selling new-shell units at volume. US boutiques (iRefresher, DCG iPod) and Etsy modders are also active, and German sellers were confirmed earlier.
+  - Sources: https://www.ebay.com/itm/128067303389, https://www.ebay.com/itm/128020279110, https://irefresher.com/collections/iupgradertm-custom-ipods, https://www.etsy.com/listing/1448666688/128gb-ipod-classic-6th-gen-flash-modded
+- **Implication:** the "sealed modded" units from Asian volume sellers set a price ceiling. The founder's defensible niche is CZ-domestic buyers wanting local warranty and Czech-language support, as the dossier concludes. No sold prices could be retrieved.

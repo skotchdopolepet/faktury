@@ -95,7 +95,7 @@ One Etsy shop, shared with C02 and positioned as "Czech vintage: Bohemian glass 
 | Minutes per unit / **€ per hour** | 90 / **≈ 15** | 110 / **≈ 28** | 150 / **≈ 120** (rare, capital-heavy) |
 
 **Sensitivity [estimate]:**
-- B nets ≈ €107 if bought at the hunter's 1,500 CZK, but only ≈ €36 at the Aukro ask of 3,200 CZK. **Buy price decides everything.**
+- B nets ≈ €100–107 if bought at the hunter's 1,500 CZK, but only ≈ €36 at the Aukro ask of 3,200 CZK. **Buy price decides everything.**
 - Selling B to the US via DDP adds €35–45 of courier cost plus ~€33 of duty (15%). It only works at a price of $330 or more.
 - eBay.de business fees for jewelry run about 11–13% + €0.35, plus ~1.6% cross-border [knowledge, approximate]. That is similar to Etsy.
 
