@@ -120,3 +120,16 @@ The orchestrator's own WebSearch still works, but subagents ran out of search bu
 ## Modded iPods in Germany
 - eBay.de and Kleinanzeigen already carry iFlash-modded iPod Classic listings (for example a 6th-gen 128 GB with a 2,000 mAh battery, and a 7th-gen 512 GB). A competitive set of sellers exists in DE, and no price data was visible.
   - Sources: https://www.ebay.de/itm/168461378829, https://www.kleinanzeigen.de/s-iflash/k0, https://www.kleinanzeigen.de/s-ipod-mod/k0
+
+## Shoptet promo add-ons: the gap is weaker than claimed
+- Add-ons for these promotions **already exist** on doplnky.shoptet.cz: "Množstevní slevy", "Objemové slevy", "Dárky k objednávce a produktům", "Pro dopravu/dárek zdarma zbývá", "Věrnostní slevy", "Bonusový systém", "Rozšířená objednávka". Shoptet also natively supports X+Y discounts ("Slevy X+Y"). There is a public merchant demand post for a quantity-discount add-on on partneri.shoptet.cz, so merchants do ask for this.
+  - Sources: https://doplnky.shoptet.cz/mnozstevni-slevy, https://doplnky.shoptet.cz/objemove-slevy, https://doplnky.shoptet.cz/darky-k-objednavce-a-produktum, https://podpora.shoptet.cz/slevy-xy/, https://partneri.shoptet.cz/poptavka/doplnek-mnozstevni-sleva/
+- **Implication:** the promo space is contested and any edge would come from quality. The iDoklad connector should be checked separately.
+
+## Film cameras: CZ sourcing prices
+- On Bazoš, **tested and working** Praktica FX3 + Tessar and Zenit ET + Helios 44-2 sets are listed at about **3,150 CZK (~€125)**. That's close to international retail, so there's no big arbitrage on tested units. Any margin must come from untested, estate and bulk lots plus cleaning and testing, and from higher-value models.
+  - Sources: https://foto.bazos.cz/inzeraty/praktica-fotoaparat/, https://foto.bazos.cz/inzeraty/fotoaparat-zenit/
+
+## Vintage Czech Christmas-glass ornaments
+- The market is active (Etsy "czechoslovakia christmas ornaments" and "vintage czechoslovakian ornaments" market pages, and eBay), but a sold **lot of 24 vintage Czech hand-blown ornaments went for $90**, about $3.75 per piece. That's low value per item, so ornaments work only as bundles or add-ons.
+  - Sources: https://ebay.com/itm/194492765145, https://www.etsy.com/market/vintage_czechoslovakian_ornaments
