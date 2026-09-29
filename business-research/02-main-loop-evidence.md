@@ -133,3 +133,20 @@ The orchestrator's own WebSearch still works, but subagents ran out of search bu
 ## Vintage Czech Christmas-glass ornaments
 - The market is active (Etsy "czechoslovakia christmas ornaments" and "vintage czechoslovakian ornaments" market pages, and eBay), but a sold **lot of 24 vintage Czech hand-blown ornaments went for $90**, about $3.75 per piece. That's low value per item, so ornaments work only as bundles or add-ons.
   - Sources: https://ebay.com/itm/194492765145, https://www.etsy.com/market/vintage_czechoslovakian_ornaments
+
+## Breast-milk jewelry: Czech competitors and waits
+- There are **several Czech makers**: vzpominkovesperky.cz, odkackyspribehem.cz ("Od Kačky s příběhem"), podandelskymikridly.cz, jola-sperky.cz, iskay.cz and @mammasperky. Their quoted waits are **"1–2 months" from receiving the milk, "up to 12 weeks" and "about 8–10 weeks"**. Deník.cz has covered the trend. Makers explain the wait by the milk needing several days to air-dry and harden.
+  - Sources: https://www.vzpominkovesperky.cz/materske-mleko-ve-sperku/, https://www.odkackyspribehem.cz/, https://www.podandelskymikridly.cz/vyroba-sperku/, https://www.iskay.cz/https-www-iskay-cz-blog-2-na-co-se-me-nejcasteji-ptate-sperky-z-materskeho-mleka-/, https://www.denik.cz/miminka-zajimavosti/sperk-materske-mleko-vlasy.html
+- **Implication:** demand exists in CZ and incumbents run 8–12 week queues, so a real supply constraint persists locally. The niche is crowded with makers, though, and a faster turnaround is a differentiator rather than a moat.
+
+## US import after the end of de minimis (relevant for any export to the US)
+- The US ended de minimis on **29 Aug 2025**. EU goods now face the **15% tariff** regardless of value (gifts under $100 are exempt, but not sales). Several EU postal operators suspended US parcel service in Aug 2025. For postal shipments, duty is either ad valorem or a flat $80–200 per item during the transition. Courier (DHL/UPS) DDP is the workable route but adds cost.
+  - Sources: https://euperspectives.eu/2025/08/european-postal-services-suspend-parcel-shipments-to-us/, https://www.npr.org/2025/08/23/nx-s1-5513936/dhl-parcel-tariffs, https://fortune.com/2025/08/23/duty-free-exemption-de-minimis-loophole-trump-trade-war-europe
+- Separately, the EU charges a fixed **€3 customs duty on low-value parcels imported into the EU from 1 July 2026**. This matters when sourcing parts from China (iFlash boards, ESP32 modules and so on).
+  - Source: https://www.consilium.europa.eu/en/press/press-releases/2025/12/12/customs-council-agrees-to-levy-customs-duty-on-small-parcels-as-of-1-july-2026/
+- **Implication:** US-facing export businesses (vintage glass, moldavite, garnets, cameras) carry about 15% more cost plus shipping friction. **EU buyers should be the primary target.**
+
+## Hallmarking (puncovnictví): trading used precious-metal jewelry in CZ
+- Anyone selling goods of gold, silver or platinum in CZ must first **notify the Puncovní úřad** (a form plus documents). **Gold items over 0.5 g and silver items over 3 g must carry a hallmark** (puncovní kontrola). Silver items under 3 g need only a fineness mark. Sellers must issue receipts stating type, price, weight and fineness (with an exemption for light silver). **AML obligations** apply to traders in precious metals and stones.
+  - Sources: http://www.puncovniurad.cz/cz/faq.aspx, https://www.puncovnictvivpraxi.cz/vyrobce-a-obchodnik/23-zakladni-povinnosti-vyrobcu-a-obchodniku-se-sperky, https://www.puncovniurad.eu/uncategorized/povinnosti-dle-aml-zakona-pro-obchodniky-s-drahymi-kovy-a-drahymi-kameny/, https://www.mydreams.cz/cz/wiki/1325-proc-nelze-prodavat-stribrne-a-zlate-sperky-na-eshopu-bez-registrace-na-puncovnim-urade.html
+- **Implication:** vintage garnet jewelry (C06) and silver-set moldavite or breast-milk jewelry need Puncovní úřad registration, and unhallmarked vintage pieces over the weight thresholds may need hallmarking before sale.
