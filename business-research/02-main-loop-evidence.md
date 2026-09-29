@@ -106,3 +106,17 @@ The orchestrator's own WebSearch still works, but subagents ran out of search bu
 - The Lenovo M720q/M920q Tiny is the default homelab recommendation. Units come off lease "by the thousand"; an M720q with i5-8500T/16 GB/256 GB sells for **~$90–110** (US). The RAM shortage raises the value of 16–32 GB configurations.
   - Sources: https://budgethomelab.com/articles/used-mini-pc-homelab-under-200/, https://hometechhacker.com/5-great-proxmox-small-form-factor-hardware-options/
 - Supply is plentiful, so margins come from configuration and RAM, not from scarcity.
+
+## Moldavite: the CZ buy-side price
+- CZ dealers pay finders **100–200 Kč/g (~€4–8/g)** for typical pieces; large South-Bohemian pieces go for about 100 Kč/g, and Moravian ones for roughly twice that. One buyer quotes 100–3,000 Kč/g depending on size and shape. Compare **$50–100/g at US retail**. The spread is huge, but many CZ dealers already sell internationally (topvltaviny.cz, vltaviny-obchod.cz, topminerals.cz, Granát Turnov, ceskekrystaly.cz).
+  - Sources: https://www.fondik.cz/clanky/vltavin-cena, https://www.topminerals.cz/vykup-vltavinu/, https://vltaviny-obchod.cz/vykup/, https://www.granat.cz/sluzby/vykup-zlata-ceskych-granatu-a-vltavinu/, https://www.topvltaviny.cz/cena-vltavinu/
+- **Implication:** the raw-material edge is real but already exploited by incumbents. A new seller's edge would have to be trust and provenance (buying directly from finders, with documentation) and presentation for foreign buyers, not simply access.
+
+## Breast-milk jewelry in Germany/EU
+- German providers now quote shorter waits: MILKIES **3–6 weeks**, Perlenstolz **6–8 weeks, with some pieces in 2 weeks**. Earlier waits were 8–10 weeks. DIY kits already exist (milchfee.de). Other providers: muttermilchkosmetik.de, miah.ch, Lialja.
+  - Sources: https://www.milkies.de/muttermilchschmuck/, https://www.perlenstolz.de/, https://milchfee.de/, https://www.miah.ch/informationen/informationen-muttermilchschmuck/
+- **Implication:** the EU supply gap is narrower than the US data suggests. A "2–3 week turnaround" pitch is already matched by at least one German competitor. The CZ/PL/SK local-language market may still be less served, but this is unverified.
+
+## Modded iPods in Germany
+- eBay.de and Kleinanzeigen already carry iFlash-modded iPod Classic listings (for example a 6th-gen 128 GB with a 2,000 mAh battery, and a 7th-gen 512 GB). A competitive set of sellers exists in DE, and no price data was visible.
+  - Sources: https://www.ebay.de/itm/168461378829, https://www.kleinanzeigen.de/s-iflash/k0, https://www.kleinanzeigen.de/s-ipod-mod/k0
